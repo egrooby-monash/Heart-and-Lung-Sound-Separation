@@ -1,0 +1,3 @@
+Speech samples from http://festvox.org/cmu_arctic/
+Noise samples from http://www.speech.cs.cmu.edu/comp.speech/Section1/Data/noisex.html
+
