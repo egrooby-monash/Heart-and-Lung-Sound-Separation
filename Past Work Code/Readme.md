@@ -1,3 +1,6 @@
+This folder presents past research on denoising and heart and lung sound separation. The .m files not within folders are the implementations of existing methods. The additional folders provide supporting functions necessary for usage of these codes. 
+
+References are provided below for the folders:
 - amplitude-modulation-analysis-matlab-master
   - Paper: Falk, Tiago H., and Wai-Yip Chan. "Modulation filtering for heart and lung sound separation from breath sound recordings." 2008 30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE, 2008.
   - Link to Paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4649547 
